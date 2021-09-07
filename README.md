@@ -1,7 +1,7 @@
 # Apkframe
 
 
-Tools for finding framework used inside an APK for recon process in apk exploitation. Pinpointing the right framework of an APK will affect the exploit methodology
+Tools for finding framework used inside an APK for recon process in apk exploitation. Pinpointing the right framework of an APK will affect the exploit methodology. The signature used is specifically created based on multiple APK comparation with various frameworks
 
 ### Installation
 
