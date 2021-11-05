@@ -50,6 +50,10 @@
 		{
 			"name":"codenameOne",
 			"dir":["smali/com/codename1"]
-		}
+		},
+		{	
+			"name":"rootbeer",
+			"dir":["smali/com/scottyab/rootbeer"]
+		},
 	]
 }
